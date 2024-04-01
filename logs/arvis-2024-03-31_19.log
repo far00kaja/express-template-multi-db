@@ -1,0 +1,151 @@
+[2024-03-31 19:37:23] info: connected rsmq
+[2024-03-31 19:37:23] error: uncaughtException: Invalid destructuring assignment target
+E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\companies\validation.js:7
+const postCompany = async (oneOf([
+
+SyntaxError: Invalid destructuring assignment target
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\router\globals\index.js:4:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+[2024-03-31 19:37:40] info: connected rsmq
+[2024-03-31 19:37:40] error: uncaughtException: async is not defined
+ReferenceError: async is not defined
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\companies\validation.js:12:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\router\globals\index.js:4:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 19:37:48] info: connected rsmq
+[2024-03-31 19:37:48] error: uncaughtException: oneOf is not defined
+ReferenceError: oneOf is not defined
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\companies\validation.js:12:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\router\globals\index.js:4:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 19:37:59] info: connected rsmq
+[2024-03-31 19:37:59] error: uncaughtException: oneOf is not defined
+ReferenceError: oneOf is not defined
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\companies\validation.js:12:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\router\globals\index.js:4:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 19:38:08] info: connected rsmq
+[2024-03-31 19:38:08] info: you are listened localhost:3001
+[2024-03-31 19:39:19] info: connected rsmq
+[2024-03-31 19:39:21] info: you are listened localhost:3001
+[2024-03-31 19:39:39] info: connected rsmq
+[2024-03-31 19:39:39] info: you are listened localhost:3001
+[2024-03-31 19:39:47] info: connected rsmq
+[2024-03-31 19:39:47] info: you are listened localhost:3001
+[2024-03-31 19:40:53] info: connected rsmq
+[2024-03-31 19:40:54] info: you are listened localhost:3001
+[2024-03-31 19:41:05] info: connected rsmq
+[2024-03-31 19:41:05] info: you are listened localhost:3001
+[2024-03-31 19:41:24] info: connected rsmq
+[2024-03-31 19:41:25] info: you are listened localhost:3001
+[2024-03-31 19:42:00] info: connected rsmq
+[2024-03-31 19:42:00] info: you are listened localhost:3001
+[2024-03-31 19:42:15] info: connected rsmq
+[2024-03-31 19:42:15] info: you are listened localhost:3001
+[2024-03-31 19:42:18] info: connected rsmq
+[2024-03-31 19:42:18] info: you are listened localhost:3001
+[2024-03-31 19:42:23] info: connected rsmq
+[2024-03-31 19:42:23] info: you are listened localhost:3001
+[2024-03-31 19:42:23] error: uncaughtException: errors is not defined
+ReferenceError: errors is not defined
+    at E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\router\globals\index.js:20:16
+    at Layer.handle [as handle_request] (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\express\lib\router\route.js:149:13)
+    at postCompany (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\companies\validation.js:16:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-31 19:42:28] info: connected rsmq
+[2024-03-31 19:42:28] info: you are listened localhost:3001
+[2024-03-31 19:42:59] info: connected rsmq
+[2024-03-31 19:42:59] info: you are listened localhost:3001
+[2024-03-31 19:43:00] info: connected rsmq
+[2024-03-31 19:43:00] info: you are listened localhost:3001
+[2024-03-31 19:43:23] info: connected rsmq
+[2024-03-31 19:43:23] info: you are listened localhost:3001
+[2024-03-31 19:44:48] info: connected rsmq
+[2024-03-31 19:44:49] info: you are listened localhost:3001
+[2024-03-31 19:45:26] info: connected rsmq
+[2024-03-31 19:45:26] info: you are listened localhost:3001
+[2024-03-31 19:45:38] info: connected rsmq
+[2024-03-31 19:45:38] info: you are listened localhost:3001
+[2024-03-31 19:45:50] info: connected rsmq
+[2024-03-31 19:45:51] info: you are listened localhost:3001
+[2024-03-31 19:45:55] info: test
+[2024-03-31 19:48:58] info: connected rsmq
+[2024-03-31 19:49:01] info: you are listened localhost:3001
+[2024-03-31 19:49:04] info: [object Object]
+[2024-03-31 19:49:14] info: connected rsmq
+[2024-03-31 19:49:15] info: you are listened localhost:3001
+[2024-03-31 19:49:15] info: [object Object]
+[2024-03-31 19:49:23] info: connected rsmq
+[2024-03-31 19:49:23] info: you are listened localhost:3001
+[2024-03-31 19:49:23] info: [object Object]
+[2024-03-31 19:49:30] info: [object Object]
+[2024-03-31 19:50:26] info: connected rsmq
+[2024-03-31 19:50:27] info: you are listened localhost:3001
+[2024-03-31 19:50:30] info: {"requestDate":1711889430037,"method":"GET","body":{}}
+[2024-03-31 19:50:43] info: connected rsmq
+[2024-03-31 19:50:43] info: you are listened localhost:3001
+[2024-03-31 19:50:51] info: connected rsmq
+[2024-03-31 19:50:51] info: you are listened localhost:3001
+[2024-03-31 19:50:53] info: {"requestDate":1711889453072,"method":"GET","body":{}}
+[2024-03-31 19:51:06] info: connected rsmq
+[2024-03-31 19:51:07] info: you are listened localhost:3001
+[2024-03-31 19:51:07] info: {"requestDate":1711889467556,"method":"GET","body":{}}
+[2024-03-31 19:51:31] info: connected rsmq
+[2024-03-31 19:51:31] info: you are listened localhost:3001
+[2024-03-31 19:51:32] info: {"requestDate":1711889492575,"method":"GET","body":{}}
+[2024-03-31 19:51:55] info: connected rsmq
+[2024-03-31 19:51:55] info: you are listened localhost:3001
+[2024-03-31 19:51:56] info: {"requestDate":1711889516188,"header":{"host":"localhost:3001","connection":"keep-alive","cache-control":"max-age=0","sec-ch-ua":"\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"Windows\"","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","sec-fetch-site":"none","sec-fetch-mode":"navigate","sec-fetch-user":"?1","sec-fetch-dest":"document","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en-US,en;q=0.9"},"method":"GET","body":{}}
+[2024-03-31 19:53:32] info: connected rsmq
+[2024-03-31 19:53:32] info: you are listened localhost:3001
+[2024-03-31 19:53:33] info: {"requestDate":1711889613072,"host":"localhost:3001","method":"GET","body":{}}
+[2024-03-31 19:53:36] info: {"requestDate":1711889616270,"host":"localhost:3001","method":"GET","body":{}}
+[2024-03-31 19:54:27] info: connected rsmq
+[2024-03-31 19:54:27] info: you are listened localhost:3001
+[2024-03-31 19:54:27] info: {"requestDate":1711889667894,"host":"localhost:3001","method":"GET","body":{}}
+[2024-03-31 19:54:42] info: connected rsmq
+[2024-03-31 19:54:43] info: you are listened localhost:3001
+[2024-03-31 19:54:44] info: {"requestDate":1711889684112,"host":"localhost:3001","acceptLanguage":"en-US,en;q=0.9","method":"GET","body":{}}
+[2024-03-31 19:55:04] info: connected rsmq
+[2024-03-31 19:55:05] info: you are listened localhost:3001
+[2024-03-31 19:55:17] info: connected rsmq
+[2024-03-31 19:55:17] info: you are listened localhost:3001
+[2024-03-31 19:55:19] info: {"requestDate":1711889719985,"host":"localhost:3001","acceptLanguage":"en-US,en;q=0.9","method":"GET","body":{}}
+[2024-03-31 19:55:43] info: connected rsmq
+[2024-03-31 19:55:44] info: you are listened localhost:3001
+[2024-03-31 19:55:45] info: {"requestDate":1711889745140,"host":"localhost:3001","acceptLanguage":"en-US,en;q=0.9","method":"GET","body":{}}
+[2024-03-31 19:55:55] info: connected rsmq
+[2024-03-31 19:55:56] info: you are listened localhost:3001
+[2024-03-31 19:56:37] info: connected rsmq
+[2024-03-31 19:56:38] info: you are listened localhost:3001
+[2024-03-31 19:56:38] info: {"requestDate":1711889798300,"host":"localhost:3001","acceptLanguage":"en-US,en;q=0.9","method":"GET","body":{}}

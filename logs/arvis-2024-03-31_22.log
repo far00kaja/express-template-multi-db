@@ -1,0 +1,359 @@
+[2024-03-31 22:10:12] info: connected rsmq
+[2024-03-31 22:10:13] info: you are listened localhost:3001
+[2024-03-31 22:10:43] info: connected rsmq
+[2024-03-31 22:10:43] info: you are listened localhost:3001
+[2024-03-31 22:12:36] info: connected rsmq
+[2024-03-31 22:12:36] info: you are listened localhost:3001
+[2024-03-31 22:15:22] info: connected rsmq
+[2024-03-31 22:15:23] info: you are listened localhost:3001
+[2024-03-31 22:15:41] info: connected rsmq
+[2024-03-31 22:15:41] info: you are listened localhost:3001
+[2024-03-31 22:15:52] info: connected rsmq
+[2024-03-31 22:15:52] info: you are listened localhost:3001
+[2024-03-31 22:17:00] info: connected rsmq
+[2024-03-31 22:17:01] info: you are listened localhost:3001
+[2024-03-31 22:17:12] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\config\prisma.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:17:45] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\config\prisma.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:18:43] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\config\prisma.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:19:37] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\config\prisma.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:19:55] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\config\prisma.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:20:21] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\config\prisma.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:20:24] info: connected rsmq
+[2024-03-31 22:20:24] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\repositories.js:3:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\service.js:3:39)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:20:29] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\config\prisma.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:20:41] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\config\prisma.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:23:12] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\config\prisma.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:23:15] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\config\prisma.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:23:27] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\config\prisma.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:23:49] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\config\prisma.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:24:00] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\config\prisma.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:24:11] info: connected rsmq
+[2024-03-31 22:24:11] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\repositories.js:3:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\service.js:3:39)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:24:21] info: connected rsmq
+[2024-03-31 22:24:21] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\repositories.js:3:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\service.js:3:39)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:24:42] info: connected rsmq
+[2024-03-31 22:24:43] info: you are listened localhost:3001
+[2024-03-31 22:25:01] info: connected rsmq
+[2024-03-31 22:25:02] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\repositories.js:3:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\service.js:3:39)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:25:28] info: connected rsmq
+[2024-03-31 22:25:28] error: uncaughtException: AuthAPI is not defined
+ReferenceError: AuthAPI is not defined
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\router\index.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:11:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:25:30] info: connected rsmq
+[2024-03-31 22:25:30] info: you are listened localhost:3001
+[2024-03-31 22:25:36] info: connected rsmq
+[2024-03-31 22:25:36] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\repositories.js:3:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\service.js:3:39)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:25:58] info: connected rsmq
+[2024-03-31 22:25:59] info: you are listened localhost:3001
+[2024-03-31 22:26:18] info: connected rsmq
+[2024-03-31 22:26:18] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\config\prisma.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\repositories.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:32:24] info: connected rsmq
+[2024-03-31 22:32:26] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\config\prisma.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\repositories.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:32:51] info: connected rsmq
+[2024-03-31 22:32:52] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\repositories.js:3:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\service.js:3:39)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:33:00] info: connected rsmq
+[2024-03-31 22:33:00] error: uncaughtException: Cannot access 'PrismaClient' before initialization
+ReferenceError: Cannot access 'PrismaClient' before initialization
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\repositories.js:3:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\service.js:3:39)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:33:31] info: connected rsmq
+[2024-03-31 22:33:31] error: uncaughtException: Cannot use import statement outside a module
+E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\repositories.js:5
+import { PrismaClient } from "@prisma/client/edge";
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\service.js:3:39)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+[2024-03-31 22:33:41] info: connected rsmq
+[2024-03-31 22:33:42] error: uncaughtException: PrismaClient is not a constructor
+TypeError: PrismaClient is not a constructor
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\repositories.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\service.js:3:39)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+[2024-03-31 22:49:33] info: connected rsmq
+[2024-03-31 22:49:33] info: you are listened localhost:3001
+[2024-03-31 22:50:51] info: connected rsmq
+[2024-03-31 22:50:51] info: you are listened localhost:3001
+[2024-03-31 22:50:52] info: Connection has been established successfully.
+[2024-03-31 22:51:24] info: connected rsmq
+[2024-03-31 22:51:24] info: you are listened localhost:3001
+[2024-03-31 22:51:25] info: Connection has been established successfully.
+[2024-03-31 22:52:24] info: connected rsmq
+[2024-03-31 22:52:24] info: you are listened localhost:3001
+[2024-03-31 22:52:25] info: Connection has been established successfully.
+[2024-03-31 22:53:13] info: connected rsmq
+[2024-03-31 22:53:13] info: you are listened localhost:3001
+[2024-03-31 22:53:14] info: Connection has been established successfully.
+[2024-03-31 22:53:25] info: connected rsmq
+[2024-03-31 22:53:25] info: you are listened localhost:3001
+[2024-03-31 22:53:26] info: Connection has been established successfully.
+[2024-03-31 22:58:37] info: connected rsmq
+[2024-03-31 22:58:37] info: you are listened localhost:3001
+[2024-03-31 22:58:37] info: Connection has been established successfully.
+[2024-03-31 22:59:53] info: connected rsmq
+[2024-03-31 22:59:53] info: you are listened localhost:3001
+[2024-03-31 22:59:53] info: Connection has been established successfully.

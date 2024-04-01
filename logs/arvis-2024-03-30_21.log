@@ -1,0 +1,96 @@
+undefined
+[2024-03-30 21:43:09] info: ===========================asdasdaoksdoaksd
+[2024-03-30 21:43:27] info: ===========================asdasdaoksdoaksd
+[2024-03-30 21:44:14] info: ===========================asdasdaoksdoaksd
+[2024-03-30 21:44:17] info: ===========================asdasdaoksdoaksd
+[2024-03-30 21:45:06] info: you are listened localhost:3001
+[2024-03-30 21:45:34] error: uncaughtException: Cannot create property 'Symbol(level)' on string '========================='
+TypeError: Cannot create property 'Symbol(level)' on string '========================='
+    at DerivedLogger.log (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\winston\lib\winston\logger.js:214:20)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\config\rsmq.js:9:8)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:6:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+[2024-03-30 21:45:50] info: =========================
+[2024-03-30 21:45:50] info: connected rsmq
+[2024-03-30 21:45:50] info: =========================
+[2024-03-30 21:45:50] info: you are listened localhost:3001
+[2024-03-30 21:46:12] info: =========================
+[2024-03-30 21:46:12] info: connected rsmq
+[2024-03-30 21:46:12] info: =========================
+[2024-03-30 21:46:12] info: you are listened localhost:3001
+[2024-03-30 21:46:23] info: =========================
+[2024-03-30 21:46:23] info: connected rsmq
+[2024-03-30 21:46:23] info: =========================
+[2024-03-30 21:46:23] info: you are listened localhost:3001
+[2024-03-30 21:46:25] info: =========================
+[2024-03-30 21:46:25] info: connected rsmq
+[2024-03-30 21:46:25] info: =========================
+[2024-03-30 21:46:25] info: you are listened localhost:3001
+[2024-03-30 21:46:33] info: connected rsmq
+[2024-03-30 21:46:33] info: you are listened localhost:3001
+[2024-03-30 21:47:27] info: connected rsmq
+[2024-03-30 21:47:27] info: you are listened localhost:3001
+[2024-03-30 21:47:35] info: connected rsmq
+[2024-03-30 21:47:35] error: test
+[2024-03-30 21:47:35] info: you are listened localhost:3001
+[2024-03-30 21:47:44] info: connected rsmq
+[2024-03-30 21:47:44] info: you are listened localhost:3001
+[2024-03-30 21:48:31] info: connected rsmq
+[2024-03-30 21:48:31] info: you are listened localhost:3001
+[2024-03-30 21:49:22] info: connected rsmq
+[2024-03-30 21:49:22] info: you are listened localhost:3001
+[2024-03-30 21:50:25] error: uncaughtException: pg.query is not a function
+TypeError: pg.query is not a function
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:9:4)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+[2024-03-30 21:50:33] info: connected rsmq
+[2024-03-30 21:50:33] info: you are listened localhost:3001
+[2024-03-30 21:50:33] error: uncaughtException: response is not defined
+ReferenceError: response is not defined
+    at E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:13:3
+    at Query.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\pg-pool\index.js:428:18)
+    at Query.handleReadyForQuery (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\pg\lib\query.js:139:14)
+    at Client._handleReadyForQuery (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\pg\lib\client.js:312:19)
+    at Connection.emit (node:events:514:28)
+    at E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\pg\lib\connection.js:117:12
+    at Parser.parse (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\pg-protocol\dist\index.js:11:42)
+    at Socket.emit (node:events:514:28)
+    at addChunk (node:internal/streams/readable:545:12)
+[2024-03-30 21:50:49] info: connected rsmq
+[2024-03-30 21:50:49] info: you are listened localhost:3001
+[2024-03-30 21:50:49] error: uncaughtException: result is not defined
+ReferenceError: result is not defined
+    at E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:10:17
+    at Query.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\pg-pool\index.js:428:18)
+    at Query.handleReadyForQuery (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\pg\lib\query.js:139:14)
+    at Client._handleReadyForQuery (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\pg\lib\client.js:312:19)
+    at Connection.emit (node:events:514:28)
+    at E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\pg\lib\connection.js:117:12
+    at Parser.parse (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\pg-protocol\dist\index.js:11:42)
+    at Socket.emit (node:events:514:28)
+    at addChunk (node:internal/streams/readable:545:12)
+[2024-03-30 21:50:51] info: connected rsmq
+[2024-03-30 21:50:51] info: you are listened localhost:3001
+[2024-03-30 21:50:51] info: [object Object]
+[2024-03-30 21:51:00] info: connected rsmq
+[2024-03-30 21:51:00] info: you are listened localhost:3001
+[2024-03-30 21:51:00] info: [object Object]
+[2024-03-30 21:51:11] info: connected rsmq
+[2024-03-30 21:51:11] info: you are listened localhost:3001
+[2024-03-30 21:51:30] info: connected rsmq
+[2024-03-30 21:51:30] info: you are listened localhost:3001
+[2024-03-30 21:52:40] info: connected rsmq
+[2024-03-30 21:52:40] info: you are listened localhost:3001

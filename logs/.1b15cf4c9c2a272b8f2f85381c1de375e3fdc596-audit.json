@@ -1,0 +1,115 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\.1b15cf4c9c2a272b8f2f85381c1de375e3fdc596-audit.json",
+    "files": [
+        {
+            "date": 1711809854395,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-03-30_21.log",
+            "hash": "4e9c35cc7af07bb9b07ee25c5f037edfee55dd22a6b13c59bc6b5671f98e37df"
+        },
+        {
+            "date": 1711812846396,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-03-30_22.log",
+            "hash": "7c2416b6964f932c1c1950d4e70dc81f3b93f83276f378309441656739081e5a"
+        },
+        {
+            "date": 1711814414709,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-03-30_23.log",
+            "hash": "d456131d0359b3a218a9f0a9e6db57fa360c03ab69d8b7c81de8fc62db080b18"
+        },
+        {
+            "date": 1711888643687,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-03-31_19.log",
+            "hash": "b5878152f1df1671ca60a0d9d6560dc8f9e5581c846701457654db1126bf97c1"
+        },
+        {
+            "date": 1711890464597,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-03-31_20.log",
+            "hash": "87cc2a765ad40c5ec8e006572981410bb9ee162606e25dd6dace41c75e522eab"
+        },
+        {
+            "date": 1711896352258,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-03-31_21.log",
+            "hash": "963d418607b52176172e69ad88691d85e972e5710ec7f6b79e69ccfae4ee19ed"
+        },
+        {
+            "date": 1711897812652,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-03-31_22.log",
+            "hash": "3a9dc31b54d56f7141fac39922da0e1b8ecb6dd67e1b8d99f923f27a212b24f9"
+        },
+        {
+            "date": 1711900830283,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-03-31_23.log",
+            "hash": "9c1f471033ab8f884f094ae7e39d22a704c9008ec72633eee02aba7874afbaf3"
+        },
+        {
+            "date": 1711904430547,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-04-01_00.log",
+            "hash": "28e7e0de20c552c97251102cb8f26c653245f723107fc11f7dec166464cd2d79"
+        },
+        {
+            "date": 1711908000921,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-04-01_01.log",
+            "hash": "ee609fc035ac12a1f859def78857e25711ba3c2a7ccdd648426fb5c56ee04d8a"
+        },
+        {
+            "date": 1711919734476,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-04-01_04.log",
+            "hash": "bae0a2ce9bb39e4db7bf0c1c30a742fa87c8b4040615551169e101d74edb72ef"
+        },
+        {
+            "date": 1711946986249,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-04-01_11.log",
+            "hash": "1fbe5683e70f9a23223a6b14e430197b8c5754905fc7d1dba04b8efc539d981f"
+        },
+        {
+            "date": 1711948744075,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-04-01_12.log",
+            "hash": "4d8fd9ef5b46a8ee8c4b41d0a4bb285377bb4ef893f76c11624ff36726489a10"
+        },
+        {
+            "date": 1711965583146,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-04-01_16.log",
+            "hash": "bf71fe30f827728a7b3de6d91cce9754b89768aff71d96f32c05687f490f61c3"
+        },
+        {
+            "date": 1711965605627,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-04-01_17.log",
+            "hash": "36ffc2431840711bc9565cb7c5a82e8ea92265fa4714c094be55ff5a4c6e7bfe"
+        },
+        {
+            "date": 1711969251769,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-04-01_18.log",
+            "hash": "4039ec66a6125fe50dfdda25e0c783030b45b4f3afb4b76eceff85dc6256daec"
+        },
+        {
+            "date": 1711979796026,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-04-01_20.log",
+            "hash": "38ff6a8c0a5e5b6ad789924992943ad720a9b8d9c2a14f077fd0c031bc9a3de9"
+        },
+        {
+            "date": 1711980449415,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-04-01_21.log",
+            "hash": "914b2f3beb45b92b6350c8ac39eda1aefba0cee6abe0a4181fc13e7e6bc7814d"
+        },
+        {
+            "date": 1711983718481,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-04-01_22.log",
+            "hash": "eba38ad5f48154591acf468e64d72aaa004ba5c4960e2745f7fe37cbb1127218"
+        },
+        {
+            "date": 1711988206840,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-04-01_23.log",
+            "hash": "0bb72c2c71b44e4bd7e9dca4aa79a9addc85861d8312473254f6d216c8816be2"
+        },
+        {
+            "date": 1712006300381,
+            "name": "E:\\PROJECT_NODE\\coding-interview\\setup-requirement-arvis\\logs\\arvis-2024-04-02_04.log",
+            "hash": "f26d4fb0000d011d3c6af50193d711df5d8789ff1db4f098a7fd6f52143f9eae"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,241 @@
+[2024-03-31 20:07:44] info: connected rsmq
+[2024-03-31 20:07:44] info: you are listened localhost:3001
+[2024-03-31 20:10:01] info: connected rsmq
+[2024-03-31 20:10:01] info: you are listened localhost:3001
+[2024-03-31 20:16:59] info: connected rsmq
+[2024-03-31 20:16:59] info: you are listened localhost:3001
+[2024-03-31 20:17:13] info: connected rsmq
+[2024-03-31 20:17:13] info: you are listened localhost:3001
+[2024-03-31 20:17:58] info: connected rsmq
+[2024-03-31 20:17:59] info: you are listened localhost:3001
+[2024-03-31 20:18:01] info: connected rsmq
+[2024-03-31 20:18:01] info: you are listened localhost:3001
+[2024-03-31 20:18:08] info: connected rsmq
+[2024-03-31 20:18:08] info: you are listened localhost:3001
+[2024-03-31 20:18:24] info: {"requestDate":1711891104851,"host":"localhost:3001","method":"GET","body":{}}
+[2024-03-31 20:18:24] error: uncaughtException: Cannot read properties of undefined (reading 'findMany')
+TypeError: Cannot read properties of undefined (reading 'findMany')
+    at E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:21:38
+    at Layer.handle [as handle_request] (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\express\lib\router\layer.js:95:5)
+    at E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\express\lib\router\index.js:280:10)
+    at E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\express\lib\router\index.js:646:15
+    at next (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\express\lib\router\index.js:265:14)
+[2024-03-31 20:18:36] info: connected rsmq
+[2024-03-31 20:18:36] info: you are listened localhost:3001
+[2024-03-31 20:18:41] info: connected rsmq
+[2024-03-31 20:18:41] info: you are listened localhost:3001
+[2024-03-31 20:19:13] info: connected rsmq
+[2024-03-31 20:19:13] info: you are listened localhost:3001
+[2024-03-31 20:19:17] info: connected rsmq
+[2024-03-31 20:19:17] info: you are listened localhost:3001
+[2024-03-31 20:19:19] info: {"requestDate":1711891159613,"host":"localhost:3001","method":"POST","body":{}}
+[2024-03-31 20:19:19] error: uncaughtException: response is not defined
+ReferenceError: response is not defined
+    at E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:37:5
+    at Layer.handle [as handle_request] (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\express\lib\router\route.js:149:13)
+    at valRegister (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\validation.js:46:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-31 20:19:32] info: connected rsmq
+[2024-03-31 20:19:33] info: you are listened localhost:3001
+[2024-03-31 20:19:34] info: {"requestDate":1711891174554,"host":"localhost:3001","method":"POST","body":{}}
+[2024-03-31 20:20:09] info: {"requestDate":1711891209641,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:20:37] info: connected rsmq
+[2024-03-31 20:20:38] info: you are listened localhost:3001
+[2024-03-31 20:20:41] info: {"requestDate":1711891241836,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:20:56] info: {"requestDate":1711891256783,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:21:06] info: connected rsmq
+[2024-03-31 20:21:07] info: you are listened localhost:3001
+[2024-03-31 20:21:08] info: {"requestDate":1711891268864,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:21:19] info: connected rsmq
+[2024-03-31 20:21:19] info: you are listened localhost:3001
+[2024-03-31 20:21:25] info: connected rsmq
+[2024-03-31 20:21:25] info: you are listened localhost:3001
+[2024-03-31 20:21:27] info: {"requestDate":1711891287963,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:21:49] info: {"requestDate":1711891309783,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:22:00] info: connected rsmq
+[2024-03-31 20:22:00] info: you are listened localhost:3001
+[2024-03-31 20:22:03] info: {"requestDate":1711891323132,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:22:11] info: {"requestDate":1711891331188,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:22:21] info: connected rsmq
+[2024-03-31 20:22:21] info: you are listened localhost:3001
+[2024-03-31 20:22:22] info: {"requestDate":1711891342627,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:22:58] info: {"requestDate":1711891378620,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:23:00] info: {"requestDate":1711891380833,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:23:03] info: {"requestDate":1711891383452,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:23:39] info: connected rsmq
+[2024-03-31 20:23:39] info: you are listened localhost:3001
+[2024-03-31 20:23:44] info: {"requestDate":1711891424245,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:23:58] info: connected rsmq
+[2024-03-31 20:23:58] info: you are listened localhost:3001
+[2024-03-31 20:24:01] info: {"requestDate":1711891441601,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:24:07] info: {"requestDate":1711891447519,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:24:17] info: connected rsmq
+[2024-03-31 20:24:17] info: you are listened localhost:3001
+[2024-03-31 20:24:20] info: {"requestDate":1711891460742,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:25:00] info: connected rsmq
+[2024-03-31 20:25:01] info: you are listened localhost:3001
+[2024-03-31 20:25:03] info: connected rsmq
+[2024-03-31 20:25:04] info: you are listened localhost:3001
+[2024-03-31 20:25:09] info: {"requestDate":1711891509661,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:25:28] info: connected rsmq
+[2024-03-31 20:25:29] info: you are listened localhost:3001
+[2024-03-31 20:25:31] info: {"requestDate":1711891531534,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:25:49] info: connected rsmq
+[2024-03-31 20:25:49] info: you are listened localhost:3001
+[2024-03-31 20:25:54] info: {"requestDate":1711891554091,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:25:54] error: uncaughtException: (no error message)
+Error
+    at Result.throw (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\express-validator\src\validation-result.js:63:33)
+    at E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:36:28
+    at Layer.handle [as handle_request] (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\express\lib\router\route.js:149:13)
+    at valRegister (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\validation.js:44:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-03-31 20:26:20] info: connected rsmq
+[2024-03-31 20:26:22] info: you are listened localhost:3001
+[2024-03-31 20:26:26] info: {"requestDate":1711891586200,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:26:45] info: connected rsmq
+[2024-03-31 20:26:46] info: you are listened localhost:3001
+[2024-03-31 20:26:48] info: {"requestDate":1711891608446,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:28:26] info: connected rsmq
+[2024-03-31 20:28:28] info: you are listened localhost:3001
+[2024-03-31 20:28:31] info: {"requestDate":1711891711122,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:28:39] info: connected rsmq
+[2024-03-31 20:28:39] error: uncaughtException: Unexpected token '}'
+E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\auths\validation.js:40
+    }).run(req);
+    ^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\server.js:13:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+[2024-03-31 20:28:43] info: connected rsmq
+[2024-03-31 20:28:43] info: you are listened localhost:3001
+[2024-03-31 20:28:46] info: {"requestDate":1711891726353,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:28:52] info: connected rsmq
+[2024-03-31 20:28:52] info: you are listened localhost:3001
+[2024-03-31 20:28:54] info: {"requestDate":1711891734363,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:29:09] info: connected rsmq
+[2024-03-31 20:29:09] info: you are listened localhost:3001
+[2024-03-31 20:29:12] info: {"requestDate":1711891752937,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:29:15] info: {"requestDate":1711891755198,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:29:46] info: connected rsmq
+[2024-03-31 20:29:46] info: you are listened localhost:3001
+[2024-03-31 20:29:49] info: {"requestDate":1711891789192,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:30:08] info: connected rsmq
+[2024-03-31 20:30:09] info: you are listened localhost:3001
+[2024-03-31 20:30:10] info: {"requestDate":1711891810250,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:30:16] info: {"requestDate":1711891816739,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:30:22] info: connected rsmq
+[2024-03-31 20:30:22] info: you are listened localhost:3001
+[2024-03-31 20:30:24] info: {"requestDate":1711891824597,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:30:35] info: connected rsmq
+[2024-03-31 20:30:35] info: you are listened localhost:3001
+[2024-03-31 20:30:38] info: {"requestDate":1711891838280,"host":"localhost:3001","method":"POST","body":{"username":"username","passwordx":"password!1A","name":"test"}}
+[2024-03-31 20:30:52] info: connected rsmq
+[2024-03-31 20:30:52] info: you are listened localhost:3001
+[2024-03-31 20:30:54] info: {"requestDate":1711891854812,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:32:21] info: connected rsmq
+[2024-03-31 20:32:22] info: you are listened localhost:3001
+[2024-03-31 20:32:25] info: connected rsmq
+[2024-03-31 20:32:26] info: you are listened localhost:3001
+[2024-03-31 20:32:27] info: {"requestDate":1711891947873,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:33:01] info: connected rsmq
+[2024-03-31 20:33:02] info: you are listened localhost:3001
+[2024-03-31 20:33:05] info: {"requestDate":1711891985486,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:33:53] info: connected rsmq
+[2024-03-31 20:33:53] info: you are listened localhost:3001
+[2024-03-31 20:34:01] info: {"requestDate":1711892041770,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:34:53] info: connected rsmq
+[2024-03-31 20:34:53] info: you are listened localhost:3001
+[2024-03-31 20:34:59] info: {"requestDate":1711892099079,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:35:36] info: connected rsmq
+[2024-03-31 20:35:37] info: you are listened localhost:3001
+[2024-03-31 20:35:42] info: {"requestDate":1711892142824,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:40:37] info: connected rsmq
+[2024-03-31 20:40:38] info: you are listened localhost:3001
+[2024-03-31 20:42:21] info: connected rsmq
+[2024-03-31 20:42:21] info: you are listened localhost:3001
+[2024-03-31 20:42:24] info: {"requestDate":1711892544846,"host":"localhost:3001","method":"POST","body":"{\"username\":\"username\",\"password\":\"password!1A\",\"name\":\"test\"}"}
+[2024-03-31 20:43:00] info: connected rsmq
+[2024-03-31 20:43:00] info: you are listened localhost:3001
+[2024-03-31 20:43:04] info: {"requestDate":1711892584493,"host":"localhost:3001","method":"POST","body":"password!1A"}
+[2024-03-31 20:43:23] info: connected rsmq
+[2024-03-31 20:43:23] info: you are listened localhost:3001
+[2024-03-31 20:43:25] info: {"requestDate":1711892605960,"host":"localhost:3001","method":"POST","body":true}
+[2024-03-31 20:44:19] info: connected rsmq
+[2024-03-31 20:44:20] info: you are listened localhost:3001
+[2024-03-31 20:44:22] info: {"requestDate":1711892662070,"host":"localhost:3001","method":"POST","body":{"username":"username","password":"password!1A","name":"test"}}
+[2024-03-31 20:45:20] info: connected rsmq
+[2024-03-31 20:45:20] info: you are listened localhost:3001
+[2024-03-31 20:45:23] info: {"requestDate":1711892723632,"host":"localhost:3001","method":"POST","body":"password!1A"}
+[2024-03-31 20:45:36] info: connected rsmq
+[2024-03-31 20:45:37] info: you are listened localhost:3001
+[2024-03-31 20:45:41] info: {"requestDate":1711892741656,"host":"localhost:3001","method":"POST","body":{"username":"username","name":"test"}}
+[2024-03-31 20:46:12] info: connected rsmq
+[2024-03-31 20:46:12] info: you are listened localhost:3001
+[2024-03-31 20:46:18] info: {"requestDate":1711892778626,"host":"localhost:3001","method":"POST","body":{"username":"username","password":"xxxxxxxx","name":"test"}}
+[2024-03-31 20:46:32] info: connected rsmq
+[2024-03-31 20:46:33] info: you are listened localhost:3001
+[2024-03-31 20:46:41] info: connected rsmq
+[2024-03-31 20:46:42] info: you are listened localhost:3001
+[2024-03-31 20:46:47] info: {"requestDate":1711892807123,"host":"localhost:3001","method":"POST","body":{"username":"username","password":"x x x x x","name":"test"}}
+[2024-03-31 20:47:20] info: connected rsmq
+[2024-03-31 20:47:20] info: you are listened localhost:3001
+[2024-03-31 20:47:23] info: connected rsmq
+[2024-03-31 20:47:23] info: you are listened localhost:3001
+[2024-03-31 20:47:25] info: {"requestDate":1711892845710,"host":"localhost:3001","method":"POST","body":{"username":"username","password":"x x x x x","name":"test"}}
+[2024-03-31 20:47:33] info: {"requestDate":1711892853029,"host":"localhost:3001","method":"POST","body":{"username":"username","password":"x x x x x","name":"test"}}
+[2024-03-31 20:48:10] info: connected rsmq
+[2024-03-31 20:48:10] info: you are listened localhost:3001
+[2024-03-31 20:48:12] info: connected rsmq
+[2024-03-31 20:48:12] info: you are listened localhost:3001
+[2024-03-31 20:51:02] info: connected rsmq
+[2024-03-31 20:51:03] info: you are listened localhost:3001
+[2024-03-31 20:51:07] info: {"requestDate":1711893067433,"host":"localhost:3001","method":"POST","body":{"username":"username","password":"x x x x x","name":"test"}}
+[2024-03-31 20:51:15] info: {"requestDate":1711893075866,"host":"localhost:3001","method":"POST","body":{"username":"username","password":"x x x x x","name":"test"}}
+[2024-03-31 20:51:35] info: connected rsmq
+[2024-03-31 20:51:36] info: you are listened localhost:3001
+[2024-03-31 20:51:39] info: {"requestDate":1711893099657,"host":"localhost:3001","method":"POST","body":{"username":"username","password":"x x x x x","name":"test"}}
+[2024-03-31 20:52:04] info: connected rsmq
+[2024-03-31 20:52:04] info: you are listened localhost:3001
+[2024-03-31 20:52:08] info: {"requestDate":1711893128009,"host":"localhost:3001","method":"POST","body":{"username":"username","password":"x x x x x","name":"test"}}
+[2024-03-31 20:52:14] info: connected rsmq
+[2024-03-31 20:52:14] info: you are listened localhost:3001
+[2024-03-31 20:52:16] info: {"requestDate":1711893136611,"host":"localhost:3001","method":"POST","body":{"username":"username","password":"x x x x x","name":"test"}}
+[2024-03-31 20:52:29] info: connected rsmq
+[2024-03-31 20:52:29] info: you are listened localhost:3001
+[2024-03-31 20:52:32] info: {"requestDate":1711893152628,"host":"localhost:3001","method":"POST","body":{"username":"username","password":"x x x x x","name":"test"}}
+[2024-03-31 20:52:54] info: connected rsmq
+[2024-03-31 20:52:55] info: you are listened localhost:3001
+[2024-03-31 20:52:57] info: {"requestDate":1711893177446,"host":"localhost:3001","method":"POST","body":{"username":"username","password":"x x x x x","name":"test"}}
+[2024-03-31 20:56:01] info: connected rsmq
+[2024-03-31 20:56:01] info: you are listened localhost:3001
+[2024-03-31 20:56:04] info: {"requestDate":1711893364163,"host":"localhost:3001","method":"POST","body":{"username":"username","password":"x x x x x","name":"test"}}
+[2024-03-31 20:56:25] info: {"requestDate":1711893385011,"host":"localhost:3001","method":"POST","body":{"username":"username","password":"x x x x x","confirmPassword":"password!1A","name":"test"}}
+[2024-03-31 20:57:23] info: connected rsmq
+[2024-03-31 20:57:24] info: you are listened localhost:3001
+[2024-03-31 20:57:27] info: connected rsmq
+[2024-03-31 20:57:29] info: you are listened localhost:3001
+[2024-03-31 20:57:31] info: {"requestDate":1711893451726,"host":"localhost:3001","method":"POST","body":{"username":"username","password":"x x x x x","confirmPassword":"password!1A","name":"test"}}
+[2024-03-31 20:57:39] info: {"requestDate":1711893459543,"host":"localhost:3001","method":"POST","body":{"username":"username","password":"x x x x x","confirmPassword":"xpassword!1A","name":"test"}}
+[2024-03-31 20:58:02] info: connected rsmq
+[2024-03-31 20:58:02] info: you are listened localhost:3001
+[2024-03-31 20:58:06] info: {"requestDate":1711893486469,"host":"localhost:3001","method":"POST","body":{"username":"username","password":"x x x x x","confirmPassword":"xpassword!1A","name":"test"}}
+[2024-03-31 20:58:15] info: {"requestDate":1711893495109,"host":"localhost:3001","method":"POST","body":{"username":"username","password":"x x x x x","confirmPassword":"password!1A","name":"test"}}
+[2024-03-31 20:58:18] info: connected rsmq
+[2024-03-31 20:58:18] info: you are listened localhost:3001

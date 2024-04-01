@@ -1,0 +1,5 @@
+[2024-04-01 18:00:57] info: connected rsmq
+[2024-04-01 18:00:57] info: you are listened localhost:3001
+[2024-04-01 18:00:57] info: Connection has been established successfully.
+[2024-04-01 18:00:57] info: Models synchronized with database.
+[2024-04-01 18:01:00] info: {"requestDate":1711969260369,"host":"localhost:3001","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoidXNlcm5hbWUxZDIiLCJuYW1lIjoidGVzdCJ9LCJpYXQiOjE3MTE5Njc0NjQsImV4cCI6MTcxMTk2NzUyNH0.qaFu6vQT5BADjuoFOkqcMbvDJIeoGLXvUiiqgiYnSt4","method":"GET","body":{}}

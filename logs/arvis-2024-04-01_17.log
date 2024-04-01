@@ -1,0 +1,302 @@
+[2024-04-01 17:00:06] info: connected rsmq
+[2024-04-01 17:00:06] info: you are listened localhost:3001
+[2024-04-01 17:00:06] info: Connection has been established successfully.
+[2024-04-01 17:00:06] info: Models synchronized with database.
+[2024-04-01 17:00:31] info: connected rsmq
+[2024-04-01 17:00:32] info: you are listened localhost:3001
+[2024-04-01 17:00:32] info: Connection has been established successfully.
+[2024-04-01 17:00:32] info: Models synchronized with database.
+[2024-04-01 17:00:46] info: connected rsmq
+[2024-04-01 17:00:46] info: you are listened localhost:3001
+[2024-04-01 17:00:46] info: Connection has been established successfully.
+[2024-04-01 17:00:46] info: Models synchronized with database.
+[2024-04-01 17:01:37] info: connected rsmq
+[2024-04-01 17:01:37] info: you are listened localhost:3001
+[2024-04-01 17:01:37] info: Connection has been established successfully.
+[2024-04-01 17:01:37] info: Models synchronized with database.
+[2024-04-01 17:05:24] info: connected rsmq
+[2024-04-01 17:05:24] info: you are listened localhost:3001
+[2024-04-01 17:05:24] info: Connection has been established successfully.
+[2024-04-01 17:05:24] info: Models synchronized with database.
+[2024-04-01 17:05:52] info: connected rsmq
+[2024-04-01 17:05:52] info: you are listened localhost:3001
+[2024-04-01 17:05:53] info: Connection has been established successfully.
+[2024-04-01 17:05:53] info: Models synchronized with database.
+[2024-04-01 17:06:53] info: connected rsmq
+[2024-04-01 17:06:53] info: you are listened localhost:3001
+[2024-04-01 17:06:53] info: Connection has been established successfully.
+[2024-04-01 17:06:53] info: Models synchronized with database.
+[2024-04-01 17:07:29] info: connected rsmq
+[2024-04-01 17:07:29] info: you are listened localhost:3001
+[2024-04-01 17:07:29] info: Connection has been established successfully.
+[2024-04-01 17:07:29] info: Models synchronized with database.
+[2024-04-01 17:11:28] info: connected rsmq
+[2024-04-01 17:11:28] info: you are listened localhost:3001
+[2024-04-01 17:11:28] info: Connection has been established successfully.
+[2024-04-01 17:11:28] info: Models synchronized with database.
+[2024-04-01 17:11:40] info: connected rsmq
+[2024-04-01 17:11:40] info: you are listened localhost:3001
+[2024-04-01 17:11:40] info: Connection has been established successfully.
+[2024-04-01 17:11:40] info: Models synchronized with database.
+[2024-04-01 17:12:07] info: connected rsmq
+[2024-04-01 17:12:07] info: you are listened localhost:3001
+[2024-04-01 17:12:07] info: Connection has been established successfully.
+[2024-04-01 17:12:07] info: Models synchronized with database.
+[2024-04-01 17:12:26] info: connected rsmq
+[2024-04-01 17:12:26] info: you are listened localhost:3001
+[2024-04-01 17:12:26] info: Connection has been established successfully.
+[2024-04-01 17:12:26] info: Models synchronized with database.
+[2024-04-01 17:13:21] info: connected rsmq
+[2024-04-01 17:13:21] info: you are listened localhost:3001
+[2024-04-01 17:13:21] info: Connection has been established successfully.
+[2024-04-01 17:13:21] info: Models synchronized with database.
+[2024-04-01 17:13:29] info: connected rsmq
+[2024-04-01 17:13:30] info: you are listened localhost:3001
+[2024-04-01 17:13:30] info: Connection has been established successfully.
+[2024-04-01 17:13:30] info: Models synchronized with database.
+[2024-04-01 17:14:03] info: connected rsmq
+[2024-04-01 17:14:03] info: you are listened localhost:3001
+[2024-04-01 17:14:03] info: Connection has been established successfully.
+[2024-04-01 17:14:03] info: Models synchronized with database.
+[2024-04-01 17:15:21] info: connected rsmq
+[2024-04-01 17:15:21] info: you are listened localhost:3001
+[2024-04-01 17:15:21] info: Connection has been established successfully.
+[2024-04-01 17:15:21] info: Models synchronized with database.
+[2024-04-01 17:20:10] info: connected rsmq
+[2024-04-01 17:20:11] info: you are listened localhost:3001
+[2024-04-01 17:20:11] info: Connection has been established successfully.
+[2024-04-01 17:20:11] info: Models synchronized with database.
+[2024-04-01 17:21:29] info: connected rsmq
+[2024-04-01 17:21:29] info: you are listened localhost:3001
+[2024-04-01 17:21:30] info: Connection has been established successfully.
+[2024-04-01 17:21:30] info: Models synchronized with database.
+[2024-04-01 17:21:41] info: connected rsmq
+[2024-04-01 17:21:41] info: you are listened localhost:3001
+[2024-04-01 17:21:42] info: Connection has been established successfully.
+[2024-04-01 17:21:42] info: Models synchronized with database.
+[2024-04-01 17:21:56] info: connected rsmq
+[2024-04-01 17:21:56] info: you are listened localhost:3001
+[2024-04-01 17:21:57] info: Connection has been established successfully.
+[2024-04-01 17:21:57] info: Models synchronized with database.
+[2024-04-01 17:22:47] info: connected rsmq
+[2024-04-01 17:22:48] error: uncaughtException: Invalid schema configuration: `UUIDV4` is not a valid type at path `authors`. See https://bit.ly/mongoose-schematypes for a list of valid schema types.
+TypeError: Invalid schema configuration: `UUIDV4` is not a valid type at path `authors`. See https://bit.ly/mongoose-schematypes for a list of valid schema types.
+    at Schema.interpretAsType (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\mongoose\lib\schema.js:1485:11)
+    at Schema.path (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\mongoose\lib\schema.js:1087:27)
+    at Schema.add (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\mongoose\lib\schema.js:781:14)
+    at new Schema (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\mongoose\lib\schema.js:142:10)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\articles\models.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+[2024-04-01 17:22:48] info: Connection has been established successfully.
+[2024-04-01 17:22:48] info: Models synchronized with database.
+[2024-04-01 17:26:21] info: connected rsmq
+[2024-04-01 17:26:22] error: uncaughtException: Invalid schema configuration: `UUIDV4` is not a valid type at path `authors`. See https://bit.ly/mongoose-schematypes for a list of valid schema types.
+TypeError: Invalid schema configuration: `UUIDV4` is not a valid type at path `authors`. See https://bit.ly/mongoose-schematypes for a list of valid schema types.
+    at Schema.interpretAsType (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\mongoose\lib\schema.js:1485:11)
+    at Schema.path (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\mongoose\lib\schema.js:1087:27)
+    at Schema.add (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\mongoose\lib\schema.js:781:14)
+    at new Schema (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\mongoose\lib\schema.js:142:10)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\articles\models.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+[2024-04-01 17:26:22] info: Connection has been established successfully.
+[2024-04-01 17:26:22] info: Models synchronized with database.
+[2024-04-01 17:27:13] info: connected rsmq
+[2024-04-01 17:27:13] info: you are listened localhost:3001
+[2024-04-01 17:27:14] info: Connection has been established successfully.
+[2024-04-01 17:27:14] info: Models synchronized with database.
+[2024-04-01 17:27:21] info: connected rsmq
+[2024-04-01 17:27:21] error: uncaughtException: Invalid schema configuration: `true` is not a valid type at path `required`. See https://bit.ly/mongoose-schematypes for a list of valid schema types.
+TypeError: Invalid schema configuration: `true` is not a valid type at path `required`. See https://bit.ly/mongoose-schematypes for a list of valid schema types.
+    at Schema.add (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\mongoose\lib\schema.js:709:13)
+    at Schema.add (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\mongoose\lib\schema.js:747:12)
+    at new Schema (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\mongoose\lib\schema.js:142:10)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\articles\models.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+[2024-04-01 17:27:21] info: Connection has been established successfully.
+[2024-04-01 17:27:21] info: Models synchronized with database.
+[2024-04-01 17:27:28] info: connected rsmq
+[2024-04-01 17:27:29] info: you are listened localhost:3001
+[2024-04-01 17:27:29] info: Connection has been established successfully.
+[2024-04-01 17:27:29] info: Models synchronized with database.
+[2024-04-01 17:27:34] info: {"requestDate":1711967254403,"host":"localhost:3001","method":"POST","body":{"title":"lorem ipsum","description":"lorem ipsum descriptionawe awlke hawe awkh akj h","authors":"username1d2"}}
+[2024-04-01 17:27:50] info: {"requestDate":1711967270799,"host":"localhost:3001","method":"POST","body":{"username":"username1d2","password":"x x x x x","confirmPassword":"x x x x x"}}
+[2024-04-01 17:27:59] info: {"requestDate":1711967279084,"host":"localhost:3001","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoidXNlcm5hbWUxZDIiLCJuYW1lIjoidGVzdCJ9LCJpYXQiOjE3MTE5NjcyNzEsImV4cCI6MTcxMTk2NzMzMX0.1xkkLP6ABSGB8mfGl36jJfmRg9X8gL5ef4yHxJra5es","method":"POST","body":{"title":"lorem ipsum","description":"lorem ipsum descriptionawe awlke hawe awkh akj h","authors":"username1d2"}}
+[2024-04-01 17:28:06] info: {"requestDate":1711967286022,"host":"localhost:3001","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoidXNlcm5hbWUxZDIiLCJuYW1lIjoidGVzdCJ9LCJpYXQiOjE3MTE5NjcyNzEsImV4cCI6MTcxMTk2NzMzMX0.1xkkLP6ABSGB8mfGl36jJfmRg9X8gL5ef4yHxJra5es","method":"POST","body":{"title":"lorem ipsum ajshd jkashd","description":"lorem ipsum descriptionawe awlke hawe awkh akj h","authors":"username1d2"}}
+[2024-04-01 17:28:23] info: connected rsmq
+[2024-04-01 17:28:24] info: you are listened localhost:3001
+[2024-04-01 17:28:25] info: Connection has been established successfully.
+[2024-04-01 17:28:25] info: Models synchronized with database.
+[2024-04-01 17:28:27] info: {"requestDate":1711967307438,"host":"localhost:3001","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoidXNlcm5hbWUxZDIiLCJuYW1lIjoidGVzdCJ9LCJpYXQiOjE3MTE5NjcyNzEsImV4cCI6MTcxMTk2NzMzMX0.1xkkLP6ABSGB8mfGl36jJfmRg9X8gL5ef4yHxJra5es","method":"POST","body":{"title":"lorem ipsum ajshd jkashd","description":"lorem ipsum descriptionawe awlke hawe awkh akj h","authors":"username1d2"}}
+[2024-04-01 17:28:34] info: {"requestDate":1711967314400,"host":"localhost:3001","method":"POST","body":{"username":"username1d2","password":"x x x x x","confirmPassword":"x x x x x"}}
+[2024-04-01 17:28:41] info: {"requestDate":1711967321593,"host":"localhost:3001","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoidXNlcm5hbWUxZDIiLCJuYW1lIjoidGVzdCJ9LCJpYXQiOjE3MTE5NjczMTQsImV4cCI6MTcxMTk2NzM3NH0.60FkObBSZcv0dnLwNFS2DPpm7AqDUDpdep3Un20HSPk","method":"POST","body":{"title":"lorem ipsum ajshd jkashd","description":"lorem ipsum descriptionawe awlke hawe awkh akj h","authors":"username1d2"}}
+[2024-04-01 17:29:22] info: connected rsmq
+[2024-04-01 17:29:23] info: you are listened localhost:3001
+[2024-04-01 17:29:23] info: Connection has been established successfully.
+[2024-04-01 17:29:23] info: Models synchronized with database.
+[2024-04-01 17:29:31] info: {"requestDate":1711967371754,"host":"localhost:3001","method":"POST","body":{"username":"username1d2","password":"x x x x x","confirmPassword":"x x x x x"}}
+[2024-04-01 17:29:36] info: {"requestDate":1711967376998,"host":"localhost:3001","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoidXNlcm5hbWUxZDIiLCJuYW1lIjoidGVzdCJ9LCJpYXQiOjE3MTE5NjczNzIsImV4cCI6MTcxMTk2NzQzMn0.4vrR3gDZ-6LKIrDFN3uEp4YPhhO_FApR6WuZfa1Vd5o","method":"POST","body":{"title":"lorem ipsum ajshd jkashd","description":"lorem ipsum descriptionawe awlke hawe awkh akj h","authors":"username1d2"}}
+[2024-04-01 17:30:58] info: connected rsmq
+[2024-04-01 17:30:58] info: you are listened localhost:3001
+[2024-04-01 17:30:59] info: Connection has been established successfully.
+[2024-04-01 17:30:59] info: Models synchronized with database.
+[2024-04-01 17:31:04] info: {"requestDate":1711967464544,"host":"localhost:3001","method":"POST","body":{"username":"username1d2","password":"x x x x x","confirmPassword":"x x x x x"}}
+[2024-04-01 17:31:11] info: {"requestDate":1711967471714,"host":"localhost:3001","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoidXNlcm5hbWUxZDIiLCJuYW1lIjoidGVzdCJ9LCJpYXQiOjE3MTE5Njc0NjQsImV4cCI6MTcxMTk2NzUyNH0.qaFu6vQT5BADjuoFOkqcMbvDJIeoGLXvUiiqgiYnSt4","method":"POST","body":{"title":"lorem ipsum ajshd jkashd","description":"lorem ipsum descriptionawe awlke hawe awkh akj h","authors":"username1d2"}}
+[2024-04-01 17:39:18] info: connected rsmq
+[2024-04-01 17:39:18] info: you are listened localhost:3001
+[2024-04-01 17:39:18] info: Connection has been established successfully.
+[2024-04-01 17:39:18] info: Models synchronized with database.
+[2024-04-01 17:39:27] info: connected rsmq
+[2024-04-01 17:39:27] info: you are listened localhost:3001
+[2024-04-01 17:39:28] info: Connection has been established successfully.
+[2024-04-01 17:39:28] info: Models synchronized with database.
+[2024-04-01 17:40:46] info: connected rsmq
+[2024-04-01 17:40:46] info: you are listened localhost:3001
+[2024-04-01 17:40:46] info: Connection has been established successfully.
+[2024-04-01 17:40:46] info: Models synchronized with database.
+[2024-04-01 17:40:55] info: connected rsmq
+[2024-04-01 17:40:55] info: you are listened localhost:3001
+[2024-04-01 17:40:56] info: Connection has been established successfully.
+[2024-04-01 17:40:56] info: Models synchronized with database.
+[2024-04-01 17:41:15] info: connected rsmq
+[2024-04-01 17:41:16] info: you are listened localhost:3001
+[2024-04-01 17:41:16] info: Connection has been established successfully.
+[2024-04-01 17:41:16] info: Models synchronized with database.
+[2024-04-01 17:42:21] info: connected rsmq
+[2024-04-01 17:42:21] info: you are listened localhost:3001
+[2024-04-01 17:42:21] info: Connection has been established successfully.
+[2024-04-01 17:42:21] info: Models synchronized with database.
+[2024-04-01 17:42:39] info: connected rsmq
+[2024-04-01 17:42:40] info: you are listened localhost:3001
+[2024-04-01 17:42:40] info: Connection has been established successfully.
+[2024-04-01 17:42:40] info: Models synchronized with database.
+[2024-04-01 17:42:48] info: {"requestDate":1711968168232,"host":"localhost:3001","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoidXNlcm5hbWUxZDIiLCJuYW1lIjoidGVzdCJ9LCJpYXQiOjE3MTE5Njc0NjQsImV4cCI6MTcxMTk2NzUyNH0.qaFu6vQT5BADjuoFOkqcMbvDJIeoGLXvUiiqgiYnSt4","method":"GET","body":{}}
+[2024-04-01 17:42:58] info: connected rsmq
+[2024-04-01 17:42:58] info: you are listened localhost:3001
+[2024-04-01 17:42:59] info: Connection has been established successfully.
+[2024-04-01 17:42:59] info: Models synchronized with database.
+[2024-04-01 17:43:01] info: {"requestDate":1711968181828,"host":"localhost:3001","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoidXNlcm5hbWUxZDIiLCJuYW1lIjoidGVzdCJ9LCJpYXQiOjE3MTE5Njc0NjQsImV4cCI6MTcxMTk2NzUyNH0.qaFu6vQT5BADjuoFOkqcMbvDJIeoGLXvUiiqgiYnSt4","method":"GET","body":{}}
+[2024-04-01 17:43:48] info: connected rsmq
+[2024-04-01 17:43:49] info: you are listened localhost:3001
+[2024-04-01 17:43:49] info: Connection has been established successfully.
+[2024-04-01 17:43:49] info: Models synchronized with database.
+[2024-04-01 17:43:51] info: {"requestDate":1711968231478,"host":"localhost:3001","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoidXNlcm5hbWUxZDIiLCJuYW1lIjoidGVzdCJ9LCJpYXQiOjE3MTE5Njc0NjQsImV4cCI6MTcxMTk2NzUyNH0.qaFu6vQT5BADjuoFOkqcMbvDJIeoGLXvUiiqgiYnSt4","method":"GET","body":{}}
+[2024-04-01 17:43:59] info: connected rsmq
+[2024-04-01 17:44:00] info: you are listened localhost:3001
+[2024-04-01 17:44:00] info: Connection has been established successfully.
+[2024-04-01 17:44:00] info: Models synchronized with database.
+[2024-04-01 17:44:12] info: connected rsmq
+[2024-04-01 17:44:12] info: you are listened localhost:3001
+[2024-04-01 17:44:13] info: Connection has been established successfully.
+[2024-04-01 17:44:13] info: Models synchronized with database.
+[2024-04-01 17:44:20] info: connected rsmq
+[2024-04-01 17:44:21] info: you are listened localhost:3001
+[2024-04-01 17:44:21] info: Connection has been established successfully.
+[2024-04-01 17:44:21] info: Models synchronized with database.
+[2024-04-01 17:44:23] info: {"requestDate":1711968263518,"host":"localhost:3001","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoidXNlcm5hbWUxZDIiLCJuYW1lIjoidGVzdCJ9LCJpYXQiOjE3MTE5Njc0NjQsImV4cCI6MTcxMTk2NzUyNH0.qaFu6vQT5BADjuoFOkqcMbvDJIeoGLXvUiiqgiYnSt4","method":"GET","body":{}}
+[2024-04-01 17:44:42] info: connected rsmq
+[2024-04-01 17:44:43] info: you are listened localhost:3001
+[2024-04-01 17:44:43] info: Connection has been established successfully.
+[2024-04-01 17:44:43] info: Models synchronized with database.
+[2024-04-01 17:44:47] info: {"requestDate":1711968287738,"host":"localhost:3001","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoidXNlcm5hbWUxZDIiLCJuYW1lIjoidGVzdCJ9LCJpYXQiOjE3MTE5Njc0NjQsImV4cCI6MTcxMTk2NzUyNH0.qaFu6vQT5BADjuoFOkqcMbvDJIeoGLXvUiiqgiYnSt4","method":"GET","body":{}}
+[2024-04-01 17:47:20] info: connected rsmq
+[2024-04-01 17:47:21] error: uncaughtException: Invalid schema configuration: `true` is not a valid type at path `required`. See https://bit.ly/mongoose-schematypes for a list of valid schema types.
+TypeError: Invalid schema configuration: `true` is not a valid type at path `required`. See https://bit.ly/mongoose-schematypes for a list of valid schema types.
+    at Schema.add (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\mongoose\lib\schema.js:709:13)
+    at Schema.add (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\mongoose\lib\schema.js:747:12)
+    at new Schema (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\mongoose\lib\schema.js:142:10)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\articles\models.js:5:20)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+[2024-04-01 17:47:21] info: Connection has been established successfully.
+[2024-04-01 17:47:21] info: Models synchronized with database.
+[2024-04-01 17:47:38] info: connected rsmq
+[2024-04-01 17:47:38] error: uncaughtException: Invalid schema configuration: `true` is not a valid type at path `required`. See https://bit.ly/mongoose-schematypes for a list of valid schema types.
+TypeError: Invalid schema configuration: `true` is not a valid type at path `required`. See https://bit.ly/mongoose-schematypes for a list of valid schema types.
+    at Schema.add (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\mongoose\lib\schema.js:709:13)
+    at Schema.add (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\mongoose\lib\schema.js:747:12)
+    at new Schema (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\mongoose\lib\schema.js:142:10)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\articles\models.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+[2024-04-01 17:47:38] info: Connection has been established successfully.
+[2024-04-01 17:47:38] info: Models synchronized with database.
+[2024-04-01 17:48:13] info: connected rsmq
+[2024-04-01 17:48:14] error: uncaughtException: Invalid schema configuration: `true` is not a valid type at path `required`. See https://bit.ly/mongoose-schematypes for a list of valid schema types.
+TypeError: Invalid schema configuration: `true` is not a valid type at path `required`. See https://bit.ly/mongoose-schematypes for a list of valid schema types.
+    at Schema.add (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\mongoose\lib\schema.js:709:13)
+    at Schema.add (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\mongoose\lib\schema.js:747:12)
+    at new Schema (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\node_modules\mongoose\lib\schema.js:142:10)
+    at Object.<anonymous> (E:\PROJECT_NODE\coding-interview\setup-requirement-arvis\src\modules\articles\models.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+[2024-04-01 17:48:14] info: Connection has been established successfully.
+[2024-04-01 17:48:14] info: Models synchronized with database.
+[2024-04-01 17:50:36] info: connected rsmq
+[2024-04-01 17:50:36] info: you are listened localhost:3001
+[2024-04-01 17:50:37] info: Connection has been established successfully.
+[2024-04-01 17:50:37] info: Models synchronized with database.
+[2024-04-01 17:50:38] info: {"requestDate":1711968638494,"host":"localhost:3001","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoidXNlcm5hbWUxZDIiLCJuYW1lIjoidGVzdCJ9LCJpYXQiOjE3MTE5Njc0NjQsImV4cCI6MTcxMTk2NzUyNH0.qaFu6vQT5BADjuoFOkqcMbvDJIeoGLXvUiiqgiYnSt4","method":"GET","body":{}}
+[2024-04-01 17:54:09] info: connected rsmq
+[2024-04-01 17:54:09] info: you are listened localhost:3001
+[2024-04-01 17:54:09] info: Connection has been established successfully.
+[2024-04-01 17:54:09] info: Models synchronized with database.
+[2024-04-01 17:54:13] info: {"requestDate":1711968853006,"host":"localhost:3001","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoidXNlcm5hbWUxZDIiLCJuYW1lIjoidGVzdCJ9LCJpYXQiOjE3MTE5Njc0NjQsImV4cCI6MTcxMTk2NzUyNH0.qaFu6vQT5BADjuoFOkqcMbvDJIeoGLXvUiiqgiYnSt4","method":"GET","body":{}}
+[2024-04-01 17:54:37] info: connected rsmq
+[2024-04-01 17:54:37] info: you are listened localhost:3001
+[2024-04-01 17:54:38] info: {"requestDate":1711968878087,"host":"localhost:3001","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoidXNlcm5hbWUxZDIiLCJuYW1lIjoidGVzdCJ9LCJpYXQiOjE3MTE5Njc0NjQsImV4cCI6MTcxMTk2NzUyNH0.qaFu6vQT5BADjuoFOkqcMbvDJIeoGLXvUiiqgiYnSt4","method":"GET","body":{}}
+[2024-04-01 17:54:38] info: Connection has been established successfully.
+[2024-04-01 17:54:38] info: Models synchronized with database.
+[2024-04-01 17:54:45] info: connected rsmq
+[2024-04-01 17:54:45] info: you are listened localhost:3001
+[2024-04-01 17:54:45] info: Connection has been established successfully.
+[2024-04-01 17:54:45] info: Models synchronized with database.
+[2024-04-01 17:54:53] info: {"requestDate":1711968893453,"host":"localhost:3001","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoidXNlcm5hbWUxZDIiLCJuYW1lIjoidGVzdCJ9LCJpYXQiOjE3MTE5Njc0NjQsImV4cCI6MTcxMTk2NzUyNH0.qaFu6vQT5BADjuoFOkqcMbvDJIeoGLXvUiiqgiYnSt4","method":"GET","body":{}}
+[2024-04-01 17:56:03] info: connected rsmq
+[2024-04-01 17:56:04] info: you are listened localhost:3001
+[2024-04-01 17:56:04] info: Connection has been established successfully.
+[2024-04-01 17:56:04] info: Models synchronized with database.
+[2024-04-01 17:56:13] info: {"requestDate":1711968973178,"host":"localhost:3001","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoidXNlcm5hbWUxZDIiLCJuYW1lIjoidGVzdCJ9LCJpYXQiOjE3MTE5Njc0NjQsImV4cCI6MTcxMTk2NzUyNH0.qaFu6vQT5BADjuoFOkqcMbvDJIeoGLXvUiiqgiYnSt4","method":"GET","body":{}}
+[2024-04-01 17:56:36] info: connected rsmq
+[2024-04-01 17:56:36] info: you are listened localhost:3001
+[2024-04-01 17:56:37] info: Connection has been established successfully.
+[2024-04-01 17:56:37] info: Models synchronized with database.
+[2024-04-01 17:56:39] info: {"requestDate":1711968999990,"host":"localhost:3001","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoidXNlcm5hbWUxZDIiLCJuYW1lIjoidGVzdCJ9LCJpYXQiOjE3MTE5Njc0NjQsImV4cCI6MTcxMTk2NzUyNH0.qaFu6vQT5BADjuoFOkqcMbvDJIeoGLXvUiiqgiYnSt4","method":"GET","body":{}}
+[2024-04-01 17:57:53] info: connected rsmq
+[2024-04-01 17:57:53] info: you are listened localhost:3001
+[2024-04-01 17:57:54] info: Connection has been established successfully.
+[2024-04-01 17:57:54] info: Models synchronized with database.
+[2024-04-01 17:57:58] info: {"requestDate":1711969078997,"host":"localhost:3001","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoidXNlcm5hbWUxZDIiLCJuYW1lIjoidGVzdCJ9LCJpYXQiOjE3MTE5Njc0NjQsImV4cCI6MTcxMTk2NzUyNH0.qaFu6vQT5BADjuoFOkqcMbvDJIeoGLXvUiiqgiYnSt4","method":"GET","body":{}}
+[2024-04-01 17:58:35] info: connected rsmq
+[2024-04-01 17:58:36] info: you are listened localhost:3001
+[2024-04-01 17:58:36] info: Connection has been established successfully.
+[2024-04-01 17:58:36] info: Models synchronized with database.
+[2024-04-01 17:58:51] info: connected rsmq
+[2024-04-01 17:58:51] info: you are listened localhost:3001
+[2024-04-01 17:58:51] info: Connection has been established successfully.
+[2024-04-01 17:58:51] info: Models synchronized with database.
+[2024-04-01 17:58:57] info: {"requestDate":1711969137372,"host":"localhost:3001","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoidXNlcm5hbWUxZDIiLCJuYW1lIjoidGVzdCJ9LCJpYXQiOjE3MTE5Njc0NjQsImV4cCI6MTcxMTk2NzUyNH0.qaFu6vQT5BADjuoFOkqcMbvDJIeoGLXvUiiqgiYnSt4","method":"GET","body":{}}
