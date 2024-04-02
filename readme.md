@@ -47,6 +47,7 @@ docker-compose up -d
 ## How to run with npm
 
 ```
+npm install
 npm run dev
 ```
 
