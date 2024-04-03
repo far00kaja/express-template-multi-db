@@ -4,10 +4,11 @@
 
 - Node 20
 - Redis
-- RSMQ
+- RSMQ =>
 - PostgreSQL
 - MongoDB
 - JWT
+- GraphQL
 
 ## How to build docker image
 
